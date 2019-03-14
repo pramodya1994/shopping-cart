@@ -1,2 +1,10 @@
 # shopping-cart
-Simple react application
+
+This is a example react application.
+
+run below commands to run the project
+
+```
+npm install
+npm start
+```
